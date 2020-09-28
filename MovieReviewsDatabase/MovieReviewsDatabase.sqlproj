@@ -59,5 +59,9 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Genres.sql" />
+    <Build Include="DummyProcedure.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dev.publish.xml" />
   </ItemGroup>
 </Project>
